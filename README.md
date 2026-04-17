@@ -338,3 +338,4 @@ Generates:
 ::contentReference[oaicite:0]{index=0}
 ```
 
+![visitors](https://.icu/badge?page_id=Enock02333.Outfit-Color-Understanding-with-Segmentation-Calibration-XKCD-Naming)
